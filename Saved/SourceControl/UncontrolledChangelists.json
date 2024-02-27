@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/NewMap.umap",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/widget/WP_HealthBar.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/powerupCollectable.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_HealthCollectable.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_ScoreCollectable.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/widget/WP_ScoreDisplayer.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_EnemyAI.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Pursuer.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/EAIState.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/Pursuer_AIController.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Mortar.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Pu.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Projectile.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Mortar1.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Shooter.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/widget/WP_GameOver.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/newGame/BP_Bullet.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/newWorld.umap",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Healthpack.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/power.uasset"
+			]
+		}
+	]
+}
